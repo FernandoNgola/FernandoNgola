@@ -1,35 +1,33 @@
-# Hi, I'm Fernando Francisco
+# Fernando Francisco
 
-Software engineer focused on cybersecurity, systems programming and backend development.
+Software engineer focused on cybersecurity, systems programming and high-performance software.
 
-## Interests
+## Current Focus
 
-* Cybersecurity & AI security
+* Cybersecurity
 * Systems programming
-* Network monitoring tools
-* High-performance software
-* Linux & low-level computing
+* Network monitoring
+* AI security
+* Linux internals
 
 ## Technologies
 
 * Rust
 * Python
-* C / C++
-* PHP
 * Linux
+* C
 
-## Current Projects
+## Current Project
 
 * ByteTally — bandwidth monitoring and network governance tool written in Rust
 
-## Learning
+## Learning & Research
 
-* Advanced cybersecurity
-* Threat detection & telemetry
+* Threat detection
+* Telemetry and observability
 * Post-quantum security
 * Windows & Linux internals
 
 ## Contact
 
 [fernando.francisco.ti@gmail.com](mailto:fernando.francisco.ti@gmail.com)
-
