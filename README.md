@@ -16,6 +16,7 @@ Software engineer focused on cybersecurity, systems programming and high-perform
 * Python
 * Linux
 * C
+* .NET
 
 ## Current Project
 
